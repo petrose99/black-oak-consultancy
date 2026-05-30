@@ -1,0 +1,23 @@
+{
+  "heading": "Trusted across sectors.",
+  "quotes": [
+    {
+      "text": "Their compliance framework helped us secure Series B funding in record time.",
+      "initial": "F",
+      "company": "FinTech Startup",
+      "sector": "Financial services"
+    },
+    {
+      "text": "IP strategy protected our innovations across three continents.",
+      "initial": "M",
+      "company": "Manufacturing Company",
+      "sector": "Industrial"
+    },
+    {
+      "text": "Governance restructuring improved our board efficiency by 40%.",
+      "initial": "H",
+      "company": "Healthcare Provider",
+      "sector": "Healthcare"
+    }
+  ]
+}

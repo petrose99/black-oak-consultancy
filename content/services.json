@@ -1,0 +1,188 @@
+{
+  "heading": "Four practice areas.\nOne integrated partner.",
+  "intro": "We bridge the gap between corporate complexity and practical protection — coordinating compliance, governance, legal, IP and advisory work under a single point of contact.",
+  "areas": [
+    {
+      "id": "p1",
+      "number": "01",
+      "name": "Corporate & Commercial",
+      "description": "Foundational legal and secretarial counsel for startups, expanding enterprises, and established businesses — from incorporation to deal-making.",
+      "cta": "Scale securely",
+      "values": [
+        { "title": "Simple Process", "text": "Streamlined digital entity structuring. Share your deal terms and our advisors map out the legal framework.", "icon": "check" },
+        { "title": "Rapid Delivery", "text": "Routine contract reviews and incorporation documents finalised and delivered within 24–48 hours.", "icon": "clock" },
+        { "title": "Cost-Effective", "text": "Scalable subscriptions and flat-fee project rates replace unpredictable, runaway hourly billing.", "icon": "dollar" }
+      ],
+      "groups": [
+        {
+          "title": "Business Formation & Setup",
+          "items": [
+            "Company Setup (LLC, Corp, Sole Proprietorship, Partnership)",
+            "Entity structuring & founder / operating agreements",
+            "Registration Pro — government & tax-agency registrations",
+            "Cross-border expansion & global branch setup"
+          ]
+        },
+        {
+          "title": "Corporate Secretarial",
+          "items": [
+            "Company incorporation & restructuring",
+            "Annual returns & statutory filings",
+            "Board meeting minutes, agendas & registers",
+            "Share register & shareholder management"
+          ]
+        },
+        {
+          "title": "Commercial Contracts",
+          "items": [
+            "Master Service Agreements (MSAs)",
+            "Vendor & supply-chain contracts",
+            "SaaS & licensing agreements",
+            "NDAs, drafting, review & lifecycle management"
+          ]
+        },
+        {
+          "title": "M&A & Restructuring",
+          "items": [
+            "Mergers & acquisitions structuring",
+            "M&A due-diligence audits",
+            "Joint ventures & strategic alliances",
+            "Corporate dissolution & funding gateway"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "number": "02",
+      "name": "Governance & Compliance",
+      "description": "Stay audit-ready, mitigate risk, and build trust through transparent, effective governance and watertight regulatory and tax compliance.",
+      "cta": "Get compliant",
+      "values": [
+        { "title": "Proactive, Not Reactive", "text": "We anticipate regulatory changes and market shifts before they affect you.", "icon": "shield" },
+        { "title": "Technology-Driven Tracking", "text": "Real-time tracking, automated reminders and secure document management keep you in control.", "icon": "chart" },
+        { "title": "Always Audit-Ready", "text": "Continuous monitoring means there's never a scramble when the auditors arrive.", "icon": "check" }
+      ],
+      "groups": [
+        {
+          "title": "Compliance Management",
+          "items": [
+            "Regulatory tracking & updates",
+            "Risk assessment & mitigation plans",
+            "Audit preparation & support",
+            "Policy development & compliance training"
+          ]
+        },
+        {
+          "title": "Corporate Governance",
+          "items": [
+            "Board advisory & director training",
+            "ESG framework development",
+            "Governance Blueprint — bylaws & policies",
+            "Stakeholder communication strategy"
+          ]
+        },
+        {
+          "title": "Tax & Financial Compliance",
+          "items": [
+            "Tax registration — TIN, VAT/GST & corporate tax",
+            "License Fast-Track — permits & licences",
+            "Bookkeeping, payroll & audit readiness",
+            "Business banking setup & support"
+          ]
+        },
+        {
+          "title": "Regulatory Compliance",
+          "items": [
+            "Industry-specific compliance frameworks",
+            "Ethics & compliance committees",
+            "Governance health assessments",
+            "Ongoing compliance monitoring"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "number": "03",
+      "name": "Intellectual Property & Legal",
+      "description": "Safeguard your ideas, brands, property and family interests in an increasingly competitive and digital world.",
+      "cta": "Protect your assets",
+      "values": [
+        { "title": "Expedited Action", "text": "Same-week trademark and copyright filings lock in your priority dates.", "icon": "clock" },
+        { "title": "Clear Flat-Fee Pricing", "text": "Transparent pricing for deep searches, registrations and standard filings.", "icon": "dollar" },
+        { "title": "Turnkey Delivery", "text": "Fully tailored trusts, wills and agreements prepared and ready for signature in days.", "icon": "check" }
+      ],
+      "groups": [
+        {
+          "title": "Intellectual Property",
+          "items": [
+            "Trademark clearance searches & registration",
+            "Global IP portfolio management",
+            "Cease & desist drafting & enforcement",
+            "Brand, patent & technology licensing"
+          ]
+        },
+        {
+          "title": "Estate Planning & Wills",
+          "items": [
+            "Comprehensive will drafting",
+            "Revocable & irrevocable trusts",
+            "Special-needs & spendthrift trusts",
+            "High-net-worth asset protection & probate"
+          ]
+        },
+        {
+          "title": "Real Estate",
+          "items": [
+            "Commercial lease negotiation & zoning",
+            "Purchase & sale agreements",
+            "Title review & closing support",
+            "Landlord & tenant matters"
+          ]
+        },
+        {
+          "title": "Immigration",
+          "items": [
+            "Visas & work permits",
+            "Residency & permanent-residence applications",
+            "Naturalisation & citizenship",
+            "Compliance for foreign-owned entities"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "number": "04",
+      "name": "Advisory & Consultancy",
+      "description": "Strategic insight for sustainable, well-governed growth — custom-designed around the realities of your business.",
+      "cta": "Plan your growth",
+      "values": [
+        { "title": "Tailored Solutions", "text": "Custom solution design mapped to your sector, stage and ambitions.", "icon": "star" },
+        { "title": "Technology-Enabled", "text": "Data-driven reviews and dashboards that surface efficiency and risk.", "icon": "chart" },
+        { "title": "Scalable Support", "text": "From startup packages to enterprise-level partnerships that grow with you.", "icon": "bars" }
+      ],
+      "groups": [
+        {
+          "title": "Strategic Advisory",
+          "items": [
+            "Operational efficiency reviews",
+            "Regulatory strategy development",
+            "Growth scaling advisory",
+            "Custom solution design"
+          ]
+        },
+        {
+          "title": "Transactions & Diligence",
+          "items": [
+            "M&A & investment due diligence",
+            "Funding & investor-readiness support",
+            "Risk analysis & mitigation",
+            "Digital transformation guidance"
+          ]
+        }
+      ]
+    }
+  ]
+}

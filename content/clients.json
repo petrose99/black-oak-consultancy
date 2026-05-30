@@ -1,0 +1,16 @@
+{
+  "heading": "Trusted across industries.",
+  "intro": "From asset managers and investment consortiums to manufacturers, transporters and legal firms — organisations across the region rely on Black Oak to keep them compliant and well-governed.",
+  "list": [
+    { "icon": "corporate_fare", "sector": "Asset Management", "name": "Du Preez Liebetrau & Co", "tag": "Strategic Client" },
+    { "icon": "account_balance", "sector": "Investment", "name": "Sekhametsi Investment Consortium Ltd", "tag": "Governance Advisory" },
+    { "icon": "domain", "sector": "Real Estate", "name": "Sekhametsi Property (Pty) Ltd", "tag": "Portfolio Strategy" },
+    { "icon": "verified_user", "sector": "Risk Management", "name": "Thaba Bosiu Risk Solutions", "tag": "Compliance Counsel" },
+    { "icon": "local_shipping", "sector": "International", "name": "J & G Transport (Lesotho) (Pty) Ltd", "tag": "Global Infrastructure" },
+    { "icon": "precision_manufacturing", "sector": "Pharmaceuticals", "name": "Tripharm Manufacturing (Pty) Ltd", "tag": "Operational Excellence" },
+    { "icon": "hub", "sector": "International", "name": "TC Direct (RF) (Pty) Ltd", "tag": "Cross-Border Advisory" },
+    { "icon": "gavel", "sector": "Legal Services", "name": "Agape Legal Solutions", "tag": "Strategic Counsel" },
+    { "icon": "clean_hands", "sector": "Facility Management", "name": "Lefielo Cleaning Services (Pty) Ltd", "tag": "Institutional Support" },
+    { "icon": "restaurant", "sector": "Food & Hospitality", "name": "Barcelos (Maputsoe) (Pty) Ltd", "tag": "Operational Strategy" }
+  ]
+}

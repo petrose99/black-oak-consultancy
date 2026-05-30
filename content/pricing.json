@@ -1,0 +1,59 @@
+{
+  "heading": "Transparent, scalable pricing.",
+  "intro": "Subscriptions and flat-fee projects replace unpredictable hourly billing. Choose a tier or build your own with à la carte services.",
+  "tiers": [
+    {
+      "name": "Essential",
+      "audience": "For startups & small businesses",
+      "price": "M499",
+      "per": "/ month",
+      "featured": false,
+      "features": [
+        "Basic compliance monitoring",
+        "Annual statutory filings",
+        "Standard contract templates",
+        "Quarterly governance check-ins"
+      ],
+      "cta": "Get started"
+    },
+    {
+      "name": "Growth",
+      "audience": "For scaling businesses",
+      "price": "M1,299",
+      "per": "/ month",
+      "featured": true,
+      "features": [
+        "Full compliance management",
+        "Monthly secretarial support",
+        "IP registration & monitoring",
+        "Contract review (up to 5 / month)",
+        "Bi-monthly consultancy sessions"
+      ],
+      "cta": "Choose Growth"
+    },
+    {
+      "name": "Enterprise",
+      "audience": "For established organizations",
+      "price": "Custom",
+      "per": "",
+      "featured": false,
+      "features": [
+        "Dedicated account manager",
+        "Comprehensive governance framework",
+        "Full IP portfolio management",
+        "Unlimited contract support",
+        "Custom reporting & analytics"
+      ],
+      "cta": "Talk to us"
+    }
+  ],
+  "alacarte": [
+    { "service": "Compliance audit", "price": "M2,500+", "note": "" },
+    { "service": "IP registration", "price": "M800+", "note": "per class" },
+    { "service": "Contract drafting", "price": "M450+", "note": "per document" },
+    { "service": "Governance assessment", "price": "M3,500+", "note": "" },
+    { "service": "Training workshops", "price": "M1,500+", "note": "per hour" },
+    { "service": "Custom projects", "price": "Quoted", "note": "" }
+  ],
+  "alacarte_note": "All prices in Lesotho Loti (M / LSL). Final quotes are confirmed after a free initial assessment."
+}

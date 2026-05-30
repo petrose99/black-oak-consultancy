@@ -1,0 +1,11 @@
+{
+  "heading": "The Black Oak advantage.",
+  "items": [
+    { "numeral": "i.", "title": "Integrated Approach", "text": "A single point of contact for every corporate need — eliminating departmental silos and reducing overhead." },
+    { "numeral": "ii.", "title": "Technology Advantage", "text": "Real-time tracking, automated reminders and secure document management built into every engagement." },
+    { "numeral": "iii.", "title": "Industry Expertise", "text": "Specialised knowledge across finance, manufacturing, investment, property and emerging sectors." },
+    { "numeral": "iv.", "title": "Scalable Solutions", "text": "Services that grow with your business — from a lean startup package to an enterprise partnership." },
+    { "numeral": "v.", "title": "Proactive Strategy", "text": "We don't just react — we anticipate regulatory change and position you ahead of it." },
+    { "numeral": "vi.", "title": "Precision & Insight", "text": "Legal precision blended with strategic insight, so governance enables growth rather than slowing it." }
+  ]
+}
