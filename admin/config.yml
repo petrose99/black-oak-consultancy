@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: petrose99/black-oak-consultancy
-  branch: main
+  branch: master
 
 media_folder: "assets"
 public_folder: "/assets"
