@@ -1,7 +1,14 @@
 backend:
-  name: github
-  repo: petrose99/black-oak-consultancy
+  name: git-gateway
   branch: master
+
+site_url: https://black-oak-consultancy.netlify.app
+display_url: https://black-oak-consultancy.netlify.app
+logo_url: /assets/logo-dark-full.png
+
+slug:
+  encoding: "ascii"
+  clean_accents: true
 
 media_folder: "assets"
 public_folder: "/assets"
