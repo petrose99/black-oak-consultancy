@@ -1,12 +1,9 @@
 backend:
-  name: github
-  repo: petrose99/black-oak-consultancy
+  name: git-gateway
   branch: master
-  auth_type: pkce
-  app_id: Ov23liOEnHQPfONtFBWS
 
-site_url: https://black-oak-consultancy.blackoak.workers.dev
-display_url: https://black-oak-consultancy.blackoak.workers.dev
+site_url: https://gilded-kringle-e817d1.netlify.app
+display_url: https://gilded-kringle-e817d1.netlify.app
 logo_url: /assets/logo-dark-full.png
 
 slug:
