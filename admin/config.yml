@@ -5,8 +5,8 @@ backend:
   auth_type: pkce
   app_id: Ov23liOEnHQPfONtFBWS
 
-site_url: https://black-oak-consultancy.pages.dev
-display_url: https://black-oak-consultancy.pages.dev
+site_url: https://black-oak-consultancy.blackoak.workers.dev
+display_url: https://black-oak-consultancy.blackoak.workers.dev
 logo_url: /assets/logo-dark-full.png
 
 slug:
