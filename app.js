@@ -22,7 +22,10 @@
 
   /* ---- fetch helper ---- */
   function load(url) {
-    return fetch(url + "?v=" + Date.now()).then(function (r) { return r.json(); });
+    return fetch(url).then(function (r) {
+      if (!r.ok) throw new Error(url + " returned " + r.status);
+      return r.json();
+    });
   }
 
   /* ---- render all content ---- */
