@@ -122,12 +122,6 @@
     about.industries.forEach(function (ind) { chipHtml += '<span class="chip">' + esc(ind) + '</span>'; });
     document.getElementById("about-industries").innerHTML = chipHtml;
 
-    var aStatsHtml = "";
-    about.stats.forEach(function (s) {
-      aStatsHtml += '<div class="st"><div class="num">' + esc(s.number) + '<span>' + esc(s.suffix) + '</span></div><div class="lbl">' + esc(s.label) + '</div></div>';
-    });
-    document.getElementById("about-stats").innerHTML = aStatsHtml;
-
     /* -- Pricing -- */
     document.getElementById("pricing-heading").textContent = pricing.heading;
     document.getElementById("pricing-intro").textContent = pricing.intro;

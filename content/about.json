@@ -5,11 +5,5 @@
     "Headquartered in Maseru, Lesotho, we serve clients across the region — bridging the gap between corporate complexity and practical protection."
   ],
   "philosophy_quote": "Your governance, simplified. Your growth, amplified.",
-  "industries": ["Financial", "Manufacturing", "Investment", "Property"],
-  "stats": [
-    { "number": "9", "suffix": ".", "label": "Years of experience" },
-    { "number": "120", "suffix": "+", "label": "Clients served" },
-    { "number": "4", "suffix": ".", "label": "Industries covered" },
-    { "number": "48", "suffix": "h", "label": "Onboarding turnaround" }
-  ]
+  "industries": ["Financial", "Manufacturing", "Investment", "Property"]
 }

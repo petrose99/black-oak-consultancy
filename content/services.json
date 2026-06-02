@@ -17,10 +17,11 @@
         {
           "title": "Business Formation & Setup",
           "items": [
-            "Company Setup (LLC, Corp, Sole Proprietorship, Partnership)",
+            "Entities Set Up (sole traders, private companies, public companies, societies, trusts, foundations, NGOs, partnerships and joint ventures)",
             "Entity structuring & founder / operating agreements",
             "Registration Pro — government & tax-agency registrations",
-            "Cross-border expansion & global branch setup"
+            "Cross-border expansion & global branch setup",
+            "Compliance management"
           ]
         },
         {
@@ -37,7 +38,6 @@
           "items": [
             "Master Service Agreements (MSAs)",
             "Vendor & supply-chain contracts",
-            "SaaS & licensing agreements",
             "NDAs, drafting, review & lifecycle management"
           ]
         },
