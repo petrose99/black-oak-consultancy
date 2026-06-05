@@ -36,12 +36,10 @@
     load("content/why-us.json"),
     load("content/about.json"),
     load("content/pricing.json"),
-    load("content/testimonials.json"),
-    load("content/clients.json"),
     load("content/contact.json")
   ]).then(function (data) {
     var settings = data[0], hero = data[1], services = data[2], whyUs = data[3],
-        about = data[4], pricing = data[5], testi = data[6], clients = data[7], contact = data[8];
+        about = data[4], pricing = data[5], contact = data[6];
 
     /* -- Meta -- */
     document.title = settings.title + " — " + settings.tagline;
@@ -151,32 +149,6 @@
     });
     alcHtml += '</div><p class="alc-note">' + esc(pricing.alacarte_note) + '</p>';
     document.getElementById("pricing-alacarte").innerHTML = alcHtml;
-
-    /* -- Testimonials -- */
-    document.getElementById("testi-heading").textContent = testi.heading;
-    var testiHtml = "";
-    testi.quotes.forEach(function (q) {
-      testiHtml += '<div class="quote-card reveal">' +
-        '<div class="qm">&ldquo;</div>' +
-        '<blockquote>' + esc(q.text) + '</blockquote>' +
-        '<div class="who"><span class="av">' + esc(q.initial) + '</span><span class="meta"><b>' + esc(q.company) + '</b><span>' + esc(q.sector) + '</span></span></div>' +
-      '</div>';
-    });
-    document.getElementById("testi-grid").innerHTML = testiHtml;
-
-    /* -- Clients -- */
-    document.getElementById("clients-heading").textContent = clients.heading;
-    document.getElementById("clients-intro").textContent = clients.intro;
-    var cliHtml = "";
-    clients.list.forEach(function (c) {
-      cliHtml += '<div class="client-card">' +
-        '<span class="ci"><span class="material-symbols-outlined">' + esc(c.icon) + '</span></span>' +
-        '<span class="sector">' + esc(c.sector) + '</span>' +
-        '<span class="cname">' + esc(c.name) + '</span>' +
-        '<span class="ctag">' + esc(c.tag) + '</span>' +
-      '</div>';
-    });
-    document.getElementById("clients-grid").innerHTML = cliHtml;
 
     /* -- Contact -- */
     document.getElementById("contact-heading").textContent = contact.heading;
