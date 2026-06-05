@@ -6,7 +6,7 @@
       "id": "p1",
       "number": "01",
       "name": "Corporate & Commercial",
-      "description": "Foundational legal and secretarial counsel for startups, expanding enterprises, and established businesses — from incorporation to deal-making.",
+      "description": "Foundation, legal and secretarial counsel for startups, expanding enterprises, and established businesses — from incorporation to deal-making.",
       "cta": "Scale securely",
       "values": [
         { "title": "Simple Process", "text": "Streamlined digital entity structuring. Share your deal terms and our advisors map out the legal framework.", "icon": "check" },
@@ -25,12 +25,13 @@
           ]
         },
         {
-          "title": "Corporate Secretarial",
+          "title": "Corporate Secretarial Services",
           "items": [
             "Company incorporation & restructuring",
             "Annual returns & statutory filings",
             "Board meeting minutes, agendas & registers",
-            "Share register & shareholder management"
+            "Share register & shareholder management",
+            "Corporate Governance Advisory"
           ]
         },
         {
@@ -38,7 +39,7 @@
           "items": [
             "Master Service Agreements (MSAs)",
             "Vendor & supply-chain contracts",
-            "NDAs, drafting, review & lifecycle management"
+            "NDAs, drafting, review & Contracts life cycle management"
           ]
         },
         {
@@ -85,10 +86,7 @@
         {
           "title": "Tax & Financial Compliance",
           "items": [
-            "Tax registration — TIN, VAT/GST & corporate tax",
-            "License Fast-Track — permits & licences",
-            "Bookkeeping, payroll & audit readiness",
-            "Business banking setup & support"
+            "Tax registration"
           ]
         },
         {
